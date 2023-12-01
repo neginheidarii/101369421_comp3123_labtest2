@@ -1,0 +1,14 @@
+.main-desc{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap:2.3rem; 
+}
+.dataSection{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem;
+    color: #fff;
+}
+
